@@ -2,6 +2,9 @@
 -- @author ling mee 69 (thanks to strachupl)
 -- @version 1.0
 -- @about
+--   Quick script to print selected midi device ID to console
+--   very poggers
+--
 -- Find out device ID value
 
 -- Get the first selected track
