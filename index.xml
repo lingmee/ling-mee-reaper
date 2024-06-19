@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<index version="1" name="ling-mee-reaper" commit="58a3e39ba95bd0f35846aa1f39aa4cb2574295e1">
+<index version="1" name="ling-mee-reaper" commit="86b9966142ffc5b35d24a425c7219c1d39a4007c">
   <category name="Example">
     <reapack name="cfillion_Hello world.lua" type="script" desc="Hello world">
       <metadata>
@@ -18,6 +18,22 @@ Markdown
       </metadata>
       <version name="1.0" author="cfillion" time="2021-01-04T23:30:32Z">
         <source main="main">https://github.com/cfillion/reapack-repository-template/raw/58a3e39ba95bd0f35846aa1f39aa4cb2574295e1/Example/cfillion_Hello%20world.lua</source>
+      </version>
+    </reapack>
+  </category>
+  <category name="getMIDIid">
+    <reapack name="Find MIDI device ID value.lua" type="script" desc="Find MIDI device ID value">
+      <metadata>
+        <description><![CDATA[{\rtf1\ansi\deff0{\fonttbl{\f0 \fswiss Helvetica;}{\f1 Courier;}}
+{\colortbl;\red255\green0\blue0;\red0\green0\blue255;}
+\widowctrl\hyphauto
+
+{\pard \ql \f0 \sa180 \li0 \fi0 Quick script to print selected midi device ID to console very poggers\par}
+}
+]]></description>
+      </metadata>
+      <version name="1.0" author="ling mee 69 (thanks to strachupl)" time="2024-06-19T15:40:24Z">
+        <source main="main">https://github.com/lingmee/ling-mee-reaper/raw/86b9966142ffc5b35d24a425c7219c1d39a4007c/getMIDIid/Find%20MIDI%20device%20ID%20value.lua</source>
       </version>
     </reapack>
   </category>
