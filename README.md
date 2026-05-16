@@ -1,4 +1,4 @@
-Hello gamers, this is my collection of various working and not so working LUA scripts for reaper, made or modified by me.
+Hello gamers, this is my collection of various working and not so working LUA scripts for reaper, made or modified by me. Or just collecting scripts for later learning/usage.
 Nothing special.
 
 Look at these cats
